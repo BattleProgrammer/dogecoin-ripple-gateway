@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "node-dogecoin": "^0.3.8"
+  },
+  "devDependencies": {
+    "sinon": ""
   }
 }
