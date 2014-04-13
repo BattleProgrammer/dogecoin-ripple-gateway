@@ -1,0 +1,14 @@
+{
+  "name": "dogecoin-gateway",
+  "version": "1.0.0",
+  "description": "a gateway for dogecoin to ripple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dogecoin": "^0.3.8"
+  }
+}
